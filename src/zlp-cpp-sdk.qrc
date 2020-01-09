@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Toolbars/HandTool_32x32.png</file>
+        <file>icons/Toolbars/IDE_32x32.png</file>
+        <file>icons/Toolbars/New_32x32.png</file>
+        <file>icons/Toolbars/Open_32x32.png</file>
+        <file>icons/Toolbars/Pointer_32x32.png</file>
+        <file>icons/Toolbars/Save_32x32.png</file>
+        <file>icons/Toolbars/ZoomOut_32x32.png</file>
+        <file>icons/Toolbars/ZoomIn_32x32.png</file>
+        <file>icons/Toolbars/Index_32x32.png</file>
+        <file>icons/Toolbars/Feature_32x32.png</file>
+        <file>icons/GraphScene.png</file>
+        <file>icons/Toolbars/trace_32x32.png</file>
+        <file>icons/Toolbars/Object_32x32.png</file>
+    </qresource>
+</RCC>
